@@ -1,1 +1,2 @@
 print('Norm)')
+print('kakakak')
