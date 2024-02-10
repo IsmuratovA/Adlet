@@ -1,1 +1,0 @@
-print ('Kak del?')
