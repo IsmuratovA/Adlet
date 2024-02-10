@@ -1,2 +1,1 @@
-print("Hello GIT")
-print("Hello GIT")
+a = ['Hello','pizza','qiwej']
