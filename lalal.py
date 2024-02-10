@@ -1,2 +1,0 @@
-print('Norm)')
-print('kakakak')
